@@ -13,3 +13,6 @@ d)Display the POS tagging on the first 4 rows of ‘sms’.
 e)Build and display a dependency parser tree for the sentence :
 
   “the series opened 17 years later, as Viserys Targaryen tried to win an eastern tribal army to his side, so he could retake the Iron Throne” 
+
+
+Data: https://www.kaggle.com/uciml/sms-spam-collection-dataset/download
